@@ -12,18 +12,19 @@ Every champion needs a solid foundation! These certifications represent my ongoi
 - **Play It Safe: Manage Security Risks** 🔒 ([Verify](https://coursera.org/verify/7O633Q0BNQUI))&#8203;
 - **Tools of the Trade: Linux and SQL** 🛠️ ([Verify](https://coursera.org/verify/VS3PM58HMD6I))&#8203;
 
-## 🔥 Featured Projects
-My journey isn’t just about learning—it’s about taking action. Here are some of my top projects:
-- **TryHackMe Labs & Activities** 🏴‍☠️ – Hands-on training in Splunk, Wireshark, and web vulnerability assessments. [Check it out!](https://github.com/IanKMarusak/TryHackMe-Labs)&#8203;
-- **Algorithm for File Updates** 📄 – Automated access control list updates in Python. [See the code!](https://github.com/IanKMarusak/Algorithm-File-Updates)&#8203;:contentReference[oaicite:7]{index=7}
-- **Incident Handler’s Journal** 🔍 – Documenting real-world cybersecurity investigations. [Read more!](https://github.com/IanKMarusak/Incident-Handlers-Journal)&#8203;:contentReference[oaicite:8]{index=8}
-- **SQL Data Filtering** 📊 – Advanced queries for security monitoring and department insights. [Explore it!](https://github.com/IanKMarusak/SQL-Data-Filtering)&#8203;:contentReference[oaicite:9]{index=9}
+## Featured Repositories 📂  
+
+- **[TryHackMe](https://github.com/IanKole/TryHackMe.git)** 🔍 - A collection of hands-on cybersecurity labs covering Splunk, Wireshark, log analysis, and incident response.  
+- **[SQL Data Filtering](https://github.com/IanKole/SQL-Data-Filtering.git)** 📊 - Advanced SQL queries filtering login attempts, tracking security risks, and analyzing employee data.  
+- **[Algorithm for File Updates](https://github.com/IanKole/Algorithm-File-Updates.git)** ⚙️ - A Python algorithm that automates allow list updates and removes unauthorized IPs.  
+- **[Incident Handler’s Journal](https://github.com/IanKole/Incident-Handlers-Journal.git)** 📝 - A detailed log of real-world incident response scenarios and forensic investigations.  
+- **[Vulnerability Assessment Report](https://github.com/IanKole/Vulnerability-Assessment-Report.git)** 🔥 - An in-depth security risk assessment, identifying vulnerabilities and mitigation strategies.  
+
 
 ## 🤝 Connect with Me!
 Want to team up, collaborate, or just talk cybersecurity? Hit me up! 💥  
 - **LinkedIn**: [Ian Kole Marusak](https://www.linkedin.com/in/iankolemarusak/)  
-- **GitHub**: [Check out my repos](https://github.com/IanKMarusak)  
-- **Portfolio**: [Explore my cybersecurity work](https://sites.google.com/view/iankolemarusakportfolio?usp=sharing)  
+- **GitHub**: [Check out my repos](https://github.com/IanKMarusak)    
 
 ## ⚡ Stay Tuned!
 This journey is just getting started. Keep an eye out for **new projects, certifications, and updates** as I continue to level up! 🔥💪  
